@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDiffyRSA", "NetDiffyRSA\NetDiffyRSA.csproj", "{818394E0-8BD7-4441-8D11-824F3F97E07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818394E0-8BD7-4441-8D11-824F3F97E07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818394E0-8BD7-4441-8D11-824F3F97E07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818394E0-8BD7-4441-8D11-824F3F97E07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818394E0-8BD7-4441-8D11-824F3F97E07B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA5F724-6FE8-48DF-9BC8-06FEE0035DB8}
+	EndGlobalSection
+EndGlobal
